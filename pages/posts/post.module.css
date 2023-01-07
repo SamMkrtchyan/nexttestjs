@@ -1,0 +1,33 @@
+.postsLists{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.postContent{
+    width: 300px;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 0 14px 3px rgba(0,0,0, 0.2);
+    margin: 9px;
+    padding: 10px;
+    border-radius: 4px;
+}.postImage{
+    width: 100%;
+    height: auto;
+}
+
+
+.postItemConten{ 
+
+    width: 90%;
+    margin: 0 auto;
+
+
+}.postItemConten img {
+    width: 100%;
+    height: auto;
+}
